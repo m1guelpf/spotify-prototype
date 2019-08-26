@@ -10,7 +10,9 @@
   "dependencies": {
     "autoprefixer": "^9.6.1",
     "core-js": "^2.6.5",
+    "noisejs": "^2.1.0",
     "register-service-worker": "^1.6.2",
+    "resize-detector": "^0.2.0",
     "tailwindcss": "^1.1.2",
     "tailwindcss-grid": "^1.2.1",
     "vue": "^2.6.10",

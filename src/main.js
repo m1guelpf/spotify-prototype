@@ -9,6 +9,11 @@ Vue.use(VueRouter);
 
 Vue.config.productionTip = false;
 
+Vue.prototype.$user = {
+  name: 'Miguel Piedrafita',
+  avatar: 'https://avatars.io/twitter/m1guelpf',
+};
+
 const router = new VueRouter({
   routes,
 });
